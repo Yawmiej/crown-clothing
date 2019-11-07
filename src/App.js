@@ -1,9 +1,11 @@
 import React from 'react';
+import HomePage from './homepage.component';
+
 
 function App() {
   return (
     <div className="App">
-      crown clothing
+      <HomePage />
     </div>
   );
 }
